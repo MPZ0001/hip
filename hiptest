@@ -26,4 +26,11 @@ script.js:
 
 JavaScript
 
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <your_github_repository_url>  # Replace with your repository URL
+git branch -M main
+git push -u origin main
+
 // Add JavaScript animations or interactivity here
